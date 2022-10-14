@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Script displaying the PID Bash process
+#Script displaying the PID Bash process
 pgrep -l bash
